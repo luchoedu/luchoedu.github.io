@@ -7,7 +7,24 @@ layout: default
   <div class="posts">
     {% for post in paginator.posts %}
       <div class="post py3">
-        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <p class="post-meta"> {{  page.date | date: '%-d' }} de
+             {% assign m = page.date | date: '%-m' %}
+              {% case m %}
+                {% when '1' %}enero
+                  {% when '2' %}febrero
+                  {% when '3' %}marzo
+                  {% when '4' %}abril
+                  {% when '5' %}mayo
+                  {% when '6' %}junio
+                  {% when '7' %}julio
+                  {% when '8' %}agosto
+                  {% when '9' %}septiembre
+                  {% when '10' %}octubre
+                  {% when '11' %}noviembre
+                  {% when '12' %}diciembre
+                  {% endcase %}
+                  de
+             {{  page.date | date: '%Y' }}</p>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
         <p class="post-summary">
           {{ post.content | strip_html | truncatewords: 50 }}
