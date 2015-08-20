@@ -3,7 +3,7 @@ published: true
 title: Her o el «CiberSexo» socialmente aceptado
 layout: post
 tags: [películas, reviews]
-categories: [Reviews]
+categories: [reviews]
 ---
 ***Spoiler ALERT:** He tratado de no ahondar en tanto detalle para no arruinarles la película, pero de igual manera les advierto por si son muy delicados al respecto.*
 
