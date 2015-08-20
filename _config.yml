@@ -10,10 +10,10 @@ url:         ""
 google_analytics:
 
 # Optional features
-animated:           true
-show_related_posts: true
+animated:           false
+show_related_posts: false
 show_post_footers:  false
-show_social_icons:  true
+show_social_icons:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -23,7 +23,7 @@ disqus_shortname:
 github_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username: "luchoedu"
+twitter_username:
 google_plus_id:
 linkedin_username:
 angellist_username:
