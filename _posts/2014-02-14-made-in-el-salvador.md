@@ -1,16 +1,18 @@
 ---
 published: true
-title: Mi adicción al RSS
+title: Made in El Salvador
 layout: post
-tags: [pensamientos, recomendaciones]
+tags: [recomendaciones]
 categories: [recomendaciones]
 ---
-Para ser sincero **muy pocos conocen mi adicción** a esta forma de leer o mantenerme informado con todo lo que sucede en los temas que me interesan. Aunque para muchos es una «vieja» forma de hacerlo, existiendo un real-time en Twitter o las redes sociales en general, **soy de los que siempre prefiere «Leer más» y obtener detalles, opiniones, incluso diferentes versiones de la misma noticia.**
+**[Made in El Salvador](http://madeinelsalvador.org)** nace como un pequeño proyecto personal con el objetivo de **listar empresas que se dediquen al desarrollo Web, de software y la creación de estrategias digitales en El Salvador.** Una de las razones principales para tener un directorio confiable y actualizado es conocer **cómo está creciendo el ecosistema de empresas, estudios y agencias en el país.**
 
-Si se lo preguntan, si, **fui de los que lloró cuando [Google Reader](http://www.google.com/reader/about/) decidió cerrar sus puertas** o peor aun cuando [reeder app](http://reederapp.com/mac/) dejo de funcionar por mucho tiempo (por el mismo cierre de Google Reader), de hecho aun sigue sin funcionar en la versión para Mac OS.
+Inspirado en proyectos similares como el de **[Made in New York](http://wearemadeinny.com/made-in-ny-list/)**, el objetivo de [Made in El Salvador](http://madeinelsalvador.org/) es **promover una comunidad por medio de una presentación clara de todos los servicios y productos de cada una de las empresas que participan.**
 
-Actualmente estoy en **una relación amor/odio con [Feedly](http://feedly.com/)**, aun después de haber probado muchos lectores es el único que llena todas mis expectativas y he decidió pagar la versión PRO para colaborar con su acelerado desarrollo.
+Made in El Salvador **es un proyecto abierto a todas las empresas que deseen participar o actualizar su información** y la forma de hacerlo es completando el [formulario de participación](http://madeinelsalvador.org/participar/).
 
-**El RSS es la única tecnología que me permite leer +180 diferentes sitios en menos de dos horas diarias.** Aunque debo aceptar que mas de una vez me ha tocado presionar el botón de pánico «marcar todos como leídos» trato de leerlos aunque sea de manera superficial. **180 sitios que a lo largo de mi vida en Internet he ido recolectando y que hasta ahora son mi mayor fuente de información.**
+**La información que se utiliza es pública**  y pertenece a cada una de las empresas, estudios y agencias respectivamente. Generalmente, los datos de contacto e imágenes son obtenidos vía el sitio web oficial, página de Facebook, perfiles públicos, etc. 
 
-¡Larga vida al RSS¡
+Toda empresa, estudio o agencia tiene derecho a solicitar la actualización, corrección o la *remoción (?)* completa de su información.
+
+**Por cierto, soy [Ricardo Ramírez](https://twitter.com/ricardoerl) y soy un TecYonki!**
