@@ -5,32 +5,36 @@ layout: post
 tags: [pensamientos, opinión, tips]
 categories: [opinión]
 ---
-Siempre he creído que es muy fácil saber mucho de la población de un país [con solo analizar sus comportamientos en la Web](https://twitter.com/Luchoedu/status/479488547519332352). 
+El «boom» de [groupon](http://www.groupon.com/) trajo a Latinoamérica varias copias o mejor dicho «iniciativas similares» para que no se enojen. **A todos nos encantan las ofertas**, y un 70% OFF es de esas cosas que no podemos perdernos por nada del mundo.
 
-Para comprobar lo anterior voy a tratar de **analizar al «internauta» de mi país** *(El Salvador)* y **descubrir sus comportamientos comunes en Internet**. 
+En El Salvador ya hay varios de estos sitios, siendo [PagaPoco](http://www.pagapoco.com/) «LPG» y [CuponClub](http://www.cuponclub.net/) los más destacados, este tipo de iniciativas fueron creados con un solo objetivo:
 
-Para esto solo usare [ALEXA](http://www.alexa.com/), no voy a hacer un análisis muy profundo, si así lo quisiera tendría que analizar otras herramientas como: Top de apps en las diferentes Store (play, apple, world), Top Spotify, etc.
+* Dar la oportunidad a los negocios/empresas ya sean grandes o pequeñas a dar a conocer sus servicios o productos a un buen precio de «introducción» a cambio de convertir a nuevos clientes y generar mayores ventas. 
 
-Entonces, **¿Que hace normalmente un Salvadoreño en Internet?**
+**En resumen:** Los negocios dan una buena oferta para conseguir ventas y clientes nuevos.
 
-1. **Facebook:** si, el salvadoreño es «feisbukero» por excelencia, la gran mayoría y yo me atrevería a decir que más del 95% de ellos usan Internet en su mayoría de tiempo para estar conectados en esta red social. 
+Pero esto se fue transformando con el tiempo y las ofertas ya no son tan atractivas como parecen, **las empresas olvidaron una pieza importante** y es que de nada sirve vender a mil personas si al final del día ninguna quedo feliz con tu servicio o producto, por lo tanto jamas regresara y al contrario perderás en lugar de ganar.
 
-2. **Googlear:** Curioso, pues en la gran mayoría de países a nivel latinoamericano, esta es la principal tarea del internauta. Pero aja, el salvadoreño antes de hacer la trabajo, revisa el Facebook. ¿todo concuerda o no?
+Quienes suelen comprar estos cupones saben que en la mayoría de casos **no te dan el producto completo, te tratan diferente por que saben que pagaste menos, hay tarifas requeridas escondidas, o peor aun, la oferta que dice ser del 60% apenas llega al 10%**
 
-3. **Ver videos en Youtube:** Podemos decir que las dos tareas anteriores desencadenan este comportamiento.
+Es por eso que he preparado una **lista de recomendaciones que deben tomar en cuenta antes de comprar un cupón** en cualquiera de estos sitios:
 
-4. **Leer noticias:** Periódicos digitales (lpg, edh, deportivos), blogs (fashion y no fashion lol) el salvadoreño quiere mantenerse informado todo el tiempo en sus temas de interés.
+**1) Investiga la empresa:** debes investigar la empresa que esta ofertando el cupón, una búsqueda en google puede que te de razones suficientes para no comprar el cupón. Tambien es importante que veas si la empresa no abusa de la herramienta y no es de las que publica un cupón por semana, esto significa que su negocio se basa en cupones y realmente no brindara el servicio que esperas.
 
-5. **Twitter:** Me alegra mucho la aceptación que ha tenido este medio, cada vez es más aceptado y «twittear» a entrado al top5 tareas comunes de los internautas salvadoreños.
+**2) Investiga el precio real de la oferta:** La mayoría de ofertas son falsas o mienten respecto al precio original del producto o servicio, pueden llegar a decir que te están dando algo con un 70%OFF cuando realmente es un descuento del 5%. **Investiga y cotiza antes de comprar**, posiblemente prefieras pagar 5% mas y recibir una mejor atención.
 
-6. **Comprar, vender y buscar empleo:** No me refiero al comercio electrónico e-commerce, no se emocionen, sino a sitios de clasificados como OLX (ex mundoanuncio) y prontotrabajo donde los salvadoreños anda como siempre haciendo «bisnes» con todo lo que puede o buscando una oportunidad de empleo.
+**3) Matemáticas:** No es broma, debes hacer cuentas con unos datos muy importantes:
 
-7. **Piratas:** Somos piratas, debemos aceptarlo, torrents, taringa, etc. Están entre las actividades más comunes del salvadoreño en Internet. Aunque cada vez es más fuerte la presencia de servicios de streaming ilimitados como Netflix, Deezer y Spotify la descarga ilegal sigue siendo preferida por los internautas salvadoreños.
+* **Fijate cuantos cupones se han vendido:** esto te dirá que tan saturado estará y la poca atención que puedas recibir. He visto promociones que han logrado vender 300 cupones, esto significa que deberán atender a 300 personas como tu, cuando los recursos del negocio no dan para atender ni 10 personas al día.
 
-8. **Porno:** Bueno, al menos no es la actividad #1... Si, los salvadoreños ven porno... y mucho! ¿lo dudaban?
+* **¿Cuanto tiempo toma realizar el servicio que necesitas?:** un lavado de tapicería para tu vehículo toma 6 horas, un alisado de cabello toma 3 o 4 horas, una estadía en un hotel es regularmente un poco mas de 24 horas, esto lleva a que cuando quieras hacer cita te digan que no hay espacios para atenderte hasta dentro de unas 3 semanas.
 
-**En resumen**: los salvadoreños somos seres **muy sociales**, nos encanta pasarnos la vida en Facebook, tambien **buscar en google** la tarea, el trabajo o aquellas cosas de las que queremos saber mas, los salvadoreños **nos divertimos mucho viendo vídeos de todo tipo en Youtube**, nos mantenemos informados leyendo noticias nacionales, internacionales y sobre todo **noticias deportivas**, **nos encanta decir lo que pensamos en twitter**, andamos **siempre en la jugada del negocio** vendiendo o comprando a otros usuarios y **buscando empleo o una mejor oportunidad** de crecimiento, **los salvadoreños nos bajamos la película o la canción que nos gusta** o esta de moda y claro **a los salvadoreños como a la mayoría nos encanta el porno**.
+* **Llama al negocio antes de comprar:** Llama y diles que compraste un cupón y que quieres hacer una cita para poder reclamar el servicio, lo mas probable es que te digan que están saturados hasta X semana del mes o incluso en muchos días, esto sirve para saber si ya están "sobrevendidos" los cupones, llama siempre antes de comprar.
 
-¿**Que tal quedo el análisis? ¿se sintieron identificados como salvadoreños**? esto solo es de actividades en la Web, como les dije al principio, podemos hacer un análisis más profundo viendo las apps que usan, los vídeos que ven y la música que escuchan, quizá luego podamos profundizar.
+* **Lee las condiciones en letra pequeña** Si quieres reclamar el cupón en fin de semana hay un recargo, no valido en fin de semana, no incluye X o Y, solo aplica para X. etc. Son algunas de las cosas que ocultan y por eso debes leer siempre.
 
-Hay cosas que me hubiera gustado encontrar como por ejemplo: **sitios de e-commerce, banca en linea y sitios de aprendizaje**, pero los salvadoreños aun no están del todo interesados en ir mas allá y sacar aun mas provecho a Internet.
+**Ejemplo de lo anterior:** un cupón de masajes en un reconocido spa se ha vendido **200 veces**, el servicio dura aproximadamente **2 horas**. El negocio tiene 7 empleadas que pueden atender 3 personas al día, esto significa que entre todo el equipo pueden atender a 21 personas al día, esto sin tomar en cuenta al cliente regular que llega al negocio (5 a 10 personas) aun si el negocio dedicara 50% del personal a atender a los que han comprado el cupón, les tomaría aproximadamente 1 mes atender a todos, eso si los toman al menos 10 clientes al día. Ah! y si quieres hacer cita en fin de semana hay un recargo de $5. El precio de la oferta era $30, ellos decían que el precio original era $70, pero investigando en otro lugares o incluso en el mismo lugar, recibes el mismo servicio por $40, **pagas $10 más y te ahorras todo el estrés.**
+
+**Lo anterior da como resultado una mala atención, un producto o servicio a medias, en fin una muy mala experiencia.**
+
+Si vas a comprar cupones, lee e investiga muy bien y si sigues estos consejos te ira muy bien.
