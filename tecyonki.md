@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TecYonki (?)
-permalink: /about/
+permalink: /tecyonki/
 ---
 
 Durante muchos años y mientras leía [microsiervos](http://www.microsiervos.com/) (los amos y señores de los blogs en español) quede practicamente enamorado del término «[high-tec yonki](http://http://www.microsiervos.com/archivo/internet/geek-y-nerd.html#comment-112844)» lo mas impactante de todo es que el término sigue siendo desconocido, incluso "googleando" [no encontramos más de 6 resultados](https://www.google.com.sv/#q=%22high-tec+yonki%22). *¿cuando fue la última vez que "googlearon" algo y solo obtuvieron 6 resultados?* 
