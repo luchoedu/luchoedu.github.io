@@ -10,10 +10,10 @@ url:         "luchoedu.github.io"
 google_analytics:
 
 # Optional features
-animated:           false
-show_related_posts: false
+animated:           true
+show_related_posts: true
 show_post_footers:  false
-show_social_icons:  false
+show_social_icons:  true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -23,7 +23,7 @@ disqus_shortname:
 github_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username:luchoedu
 google_plus_id:
 linkedin_username:
 angellist_username:
@@ -39,7 +39,7 @@ share_text: 'Share this post!'
 share_facebook: true
 share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
