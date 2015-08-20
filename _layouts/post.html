@@ -3,7 +3,24 @@ layout: default
 ---
 <div class="post-header mb2">
   <h1>{{ page.title }}</h1>
-  <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span><br>
+  <span class="post-meta">{{  page.date | date: '%-d' }} de
+ 3             {% assign m = page.date | date: '%-m' %}
+ 4             {% case m %}
+ 5               {% when '1' %}enero
+ 6                 {% when '2' %}febrero
+ 7                 {% when '3' %}marzo
+ 8                 {% when '4' %}abril
+ 9                 {% when '5' %}mayo
+10                 {% when '6' %}junio
+11                 {% when '7' %}julio
+12                 {% when '8' %}agosto
+13                 {% when '9' %}septiembre
+14                 {% when '10' %}octubre
+15                 {% when '11' %}noviembre
+16                 {% when '12' %}diciembre
+17             {% endcase %}
+18             de
+19             {{  page.date | date: '%Y' }}</span><br>
   {% if page.update_date %}
     <span class="post-meta">Actualizado: {{ page.update_date | date: "%b %-d, %Y" }}</span><br>
   {% endif %}  
