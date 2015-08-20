@@ -1,6 +1,6 @@
 ---
 published: true
-title: Smart DNS: Cuando solo quieres diversión
+title: Smart DNS para cuando solo quieres diversión
 layout: post
 tags: [recomendaciones, tips]
 categories: [recomendaciones, tips]
