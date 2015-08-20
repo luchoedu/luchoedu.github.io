@@ -4,7 +4,7 @@ email:       hola@eduardo.im
 author:      Eduardo Aguilar
 description: "Los «nerds», los que creemos en la fuerza, los adictos a la tecnología, los inadaptados de siempre. TecYonki"
 baseurl:     ""
-url:         ""
+url:         "http://luchoedu.github.io"
 
 # Google analytics
 google_analytics:
