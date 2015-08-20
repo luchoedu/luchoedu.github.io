@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       TecYonki - Adictos a la Tecnología
+email:       hola@eduardo.im
+author:      Eduardo Aguilar
+description: "Los «nerds», los que creemos en la fuerza, los adictos a la tecnología, los inadaptados de siempre. TecYonki"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "luchoedu.github.io"
 
 # Google analytics
 google_analytics:
@@ -33,11 +33,11 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
@@ -51,7 +51,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     5
 sass:
   compressed: true
 gems:
