@@ -1,6 +1,6 @@
 ---
 published: true
-title: Por una #TweetPartySV sin violencia
+title: Por una TweetPartySV sin violencia
 layout: post
 tags: [pensamientos, opinión]
 categories: [opinión]
