@@ -1,6 +1,8 @@
 ---
 published: true
 title: Telegram, el mejor sistema de mensajería instantánea hasta el momento
+description: Hoy es mi primer día sin Whatsapp, era algo que tenia en mente desde hace mucho tiempo pero por algunos motivos lo había pospuesto.
+thumbnail: http://i.imgur.com/DJlPsmU.jpg
 layout: post
 tags: [pensamientos, opinión, tips]
 categories: [recomendaciones]
