@@ -3,7 +3,7 @@ published: true
 title: Campus Party El Salvador
 layout: post
 tags: [pensamientos, opinión]
-categories: [opinión]
+categories: [opinion]
 ---
 Debo de aclarar que soy **orgulloso Campusero desde el 2008** cuando se llevo a cabo la primera [Campus Party en El Salvador](http://iberoamerica.campus-party.org/), luego tuve la oportunidad de irme "mochileando" a [3 ediciones mas en la ciudad de México](http://www.campus-party.com.mx/2014/index.html) *«claro, cuando era joven y sin preocupaciones»*, hace unos meses me entere de la increíble noticia que por fin iba a haber una edición más en El Salvador, y no solo eso, iba a ser permanente «se realizaría año con año» **¡un sueño hecho realidad!** se dio incluso la oportunidad de conversar directamente con los organizadores e impulsadores del evento, el **Buró de Convenciones**, una reunión en la que me quedo claro, esto iba en serio, lastimosamente por motivos de carga de trabajo no pude colaborar de la manera que hubiera querido, **es de agradecer todo el esfuerzo de dicha organización por traer el evento a El Salvador.**
 
