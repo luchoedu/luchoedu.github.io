@@ -3,7 +3,7 @@ published: true
 title: Dime los sitios que visitas y te diré quién eres
 layout: post
 tags: [pensamientos, opinión]
-categories: [opinión]
+categories: [opinion]
 ---
 Siempre he creido que es muy facíl saber mucho de la población de un país [con solo analizar sus comportamientos en la Web](https://twitter.com/Luchoedu/status/479488547519332352). 
 
