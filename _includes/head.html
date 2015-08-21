@@ -35,15 +35,9 @@
     <meta name="twitter:site" content="@tecyonki" />
     <meta name="twitter:creator" content="@luchoedu">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <!-- <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" /> -->
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
-    
-    {% if page.description %}
-  <meta name="twitter:description" content="{{ page.description }}">
-{% else %}
-  <meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
-{% if page.thumbnail %}
+    {% if page.thumbnail %}
   <meta name="twitter:image:src" content="{{ page.thumbnail }}">
 {% else %}
   <meta name="twitter:image:src" content="http://tecyonki.com/logo.png">
