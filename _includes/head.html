@@ -26,6 +26,7 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}">
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail | prepend: site.baseurl | prepend: site.url }}{% else %}{{ {{baseurl}}/avatar | prepend: site.baseurl | prepend: site.url }}{% endif %}">
     <meta property="og:site_name" content="{{ site.title | xml_escape }}">
     <meta property="article:author" content="https://www.facebook.com/eduardo.aguilar">
     <meta property="fb:admins" content="http://facebook.com/eduardo.aguilar">
