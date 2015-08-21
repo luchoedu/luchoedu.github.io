@@ -3,7 +3,7 @@ published: true
 title: ¡Los influenciadores no se compran, se ganan!
 layout: post
 tags: [pensamientos, opinión, tips]
-categories: [opinión]
+categories: [opinion]
 ---
 > ¿Cuanto cobras el tweet/post? te pagare con canje...No me vayas a cobrar tanto que te tengo mas trabajo para vos después... Es una marca de carne, no, no importa que seas vegetariano, solo debes decir que te encanta la carne de la marca.
 
