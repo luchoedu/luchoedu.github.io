@@ -3,7 +3,7 @@ published: true
 title: Super Selectos una apuesta mal implementada al e-commerce en El Salvador
 layout: post
 tags: [pensamientos, opinión]
-categories: [opinión]
+categories: [opinion]
 ---
 Son muy pocos los super mercados en la región que han aceptado el reto de salir a digital y apostar al e-commerce como una nueva forma de generar ventas, como siempre unos lo hacen mejor que otros. 
 
