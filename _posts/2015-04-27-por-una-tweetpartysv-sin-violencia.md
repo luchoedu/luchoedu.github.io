@@ -3,7 +3,7 @@ published: true
 title: Por una TweetPartySV sin violencia
 layout: post
 tags: [pensamientos, opinión]
-categories: [opinión]
+categories: [opinion]
 ---
 Hoy quiero hablar del **#TweetPartySV** 2015, evento que desde hace varios años LPG viene haciendo como muestra de su apoyo y aprecio por todos los twitteros Salvadoreños. Lastimosamente este año todo el evento gira al rededor de unos "premios" o #TweetAwardsSV, premios con categorías que me dejaron sorprendido... WTF?
 
