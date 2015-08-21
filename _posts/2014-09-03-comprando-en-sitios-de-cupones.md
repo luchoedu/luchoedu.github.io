@@ -3,7 +3,7 @@ published: true
 title: Comprando en sitios de cupones de ofertas
 layout: post
 tags: [pensamientos, opinión, tips]
-categories: [opinión]
+categories: [opinion]
 ---
 El «boom» de [groupon](http://www.groupon.com/) trajo a Latinoamérica varias copias o mejor dicho «iniciativas similares» para que no se enojen. **A todos nos encantan las ofertas**, y un 70% OFF es de esas cosas que no podemos perdernos por nada del mundo.
 
