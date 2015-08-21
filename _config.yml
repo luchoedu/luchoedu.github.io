@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://tecyonki.com"
 
 # Google analytics
-google_analytics:UA-2286961-17
+google_analytics: "UA-2286961-17"
 
 # Optional features
 animated:           true
