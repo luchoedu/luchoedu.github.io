@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thanks For Your Message
+title: Gracias por tu mensaje
 permalink: /thanks/
 ---
-Thanks for contacting us. We will reply as soon as possible.
+Tu mensaje ha sido enviado, te responderemos lo más pronto posible.
